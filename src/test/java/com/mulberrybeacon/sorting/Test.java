@@ -1,3 +1,6 @@
+import com.mulberrybeacon.sorting.BubbleSort;
+import com.mulberrybeacon.sorting.MergeSort;
+
 public class Test {
 	public static void main(String[] args) {
 		/*int[] list = {4,8,3,10,487,42,6762,91,2,168,34,1};

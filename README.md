@@ -1,6 +1,9 @@
 # Sorting Algorithms
 
 A collection of sorting algorithms implemented in Java.
+While reviewing some introductory algorithm concepts, I ended up implementing
+some of the most common sorting algorithms in an attempt to better understand
+their intricacies.
 
 ## Instructions
 
@@ -12,13 +15,18 @@ Nothing so far.
 
 ## Versions
 
-Version 0.1.0
+Version 0.0.1
 
 * Initial version
 
 ## Roadmap
 
-Nothing so far.
+Version 0.0.2 will have the following features:
+
+* Implement a bottom-up version of the Merge Sort algorithm
+* Implement the Insertion Sort and Quick Sort algorithms
+* Include a document with a simple outline of the main features for each
+implemented algorithm
 
 ## License
 
