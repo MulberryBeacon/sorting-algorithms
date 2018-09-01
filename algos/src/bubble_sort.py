@@ -7,7 +7,7 @@ Author: Eduardo Ferreira
 License: MIT (see LICENSE for details)
 """
 
-def bubbleSort(array: list):
+def bubble_sort(array: list):
     """
     Straightforward version of Bubble Sort.
 
@@ -24,7 +24,7 @@ def bubbleSort(array: list):
                 #array[j], array[j + 1] = array[j + 1], array[j]
 
 
-def bubbleSortSmart(array: list):
+def bubble_sort_smart(array: list):
     """
     Smart version of Bubble Sort.
     It assumes that the nth largest element is placed in its final position in the nth iteration.
@@ -43,7 +43,7 @@ def bubbleSortSmart(array: list):
                 #array[j], array[j + 1] = array[j + 1], array[j]
 
 
-def bubbleSortSmarter(array: list):
+def bubble_sort_smarter(array: list):
     """
     Smarter version of Bubble Sort.
     It memorizes the index of the last element to be switched and assumes that all the elements
