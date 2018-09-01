@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-A collection of sorting algorithms implemented in JavaScript.
+A collection of sorting algorithms implemented in Python.
 While reviewing some introductory algorithm concepts, I ended up implementing
 some of the most common sorting algorithms in an attempt to better understand
 their intricacies.
